@@ -1,0 +1,14 @@
+aiomysql
+aioredis
+bcrypt
+databases==0.5.5
+email-validator
+fastapi[all]
+git+https://github.com/akatsuki-v2/shared-modules
+pytest
+pytest-asyncio
+pytest-cov
+python-dotenv
+sqlalchemy==1.4.41
+structlog
+uvicorn[standard]
